@@ -1,0 +1,18 @@
+# course_id|course_name|major|credits|instructor|schedule|capacity|enrolled|prerequisites|description
+CS101|Introduction to Programming|Computer Science|3|Ms.Hafiza Anisa|Mon Wed 10:00-11:30|30|0||Introduction to programming concepts using Python
+CS201|Data Structures|Computer Science|4|Dr. bilal|Tue Thu 13:00-14:30|25|0|CS101|Implementation and analysis of data structures
+CS301|Algorithms|Computer Science|4|Dr. Aijaz|Mon Wed 14:00-15:30|25|0|CS101|Design and analysis of algorithms
+CS401|Database Systems|Computer Science|3|Ms. Sumbul|Tue Thu 10:00-11:30|30|0|CS301|Database design and implementation
+SE101|Programming Fundamentals|Software Engineering|3|Ms. Tehreem Qamar|Mon Wed 9:00-10:30|30|0||Introduction to software development lifecycle
+SE201|Object-Oriented Programming|Software Engineering|4|Ms. Tehreem Qamar|Tue Thu 14:00-15:30|25|0|SE101|OOP concepts and design patterns
+SE301|Software Design|Software Engineering|4|ms. Farah|Mon Wed 13:00-14:30|25|0|SE201|Software architecture and design principles
+SE401|Software Testing|Software Engineering|3|Dr. Qamar|Tue Thu 9:00-10:30|30|0|SE201|Testing methodologies and quality assurance
+DS101|Introduction to Data Science|Data Science|3|Ms. Haniya|Mon Wed 11:00-12:30|30|0||Fundamentals of data science
+DS201|Statistical Methods|Data Science|4|Prof. Amir|Tue Thu 15:00-16:30|25|0|DS101|Statistical analysis for data science
+DS301|Machine Learning|Data Science|4|Dr. Saniya|Mon Wed 15:00-16:30|25|0|DS201|Machine learning algorithms and applications
+DS401|Big Data Analytics|Data Science|3|Dr. Bilal Ahmed|Tue Thu 11:00-12:30|30|0|DS301|Processing and analyzing large datasets
+GE101|Calculus I|General|3|Ms. Namal|Mon Wed Fri 8:00-9:00|40|0||Limits, derivatives, and integrals
+GE102|Calculus II|General|3|Ms. Anum Zameer|Tue Thu Fri 8:00-9:00|40|0|GE101|Advanced integration techniques and series
+GE201|Ideology of Pakistan|General|4|Ms. Shagufta|Mon Wed 13:00-14:30|35|0||Principles of ideology of Pakistan
+GE301|Technical Writing|General|3|Dr. Saba Mazhar|Tue Thu 10:00-11:30|40|0||Professional communication for technical fields
+GE301|Islamic Studies|General|3|Ms. Saima Bano|Tue Thu 10:00-11:30|40|0||Principles of Islam
